@@ -1,14 +1,11 @@
 <!--Head-->
-@include('includes.head', ['title' => ''])
+@include('includes.head', ['title' => 'Home'])
 
 <!-- Topbar -->
 @include('includes.Topbar')
 
 <!-- Novbar -->
 @include('includes.navbar_index')
-
-<!-- feature -->
-@include('includes.feature')
 
 <!-- Category start-->
 @include('includes.category')

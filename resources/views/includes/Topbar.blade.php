@@ -1,6 +1,6 @@
     <!-- Topbar Start -->
     <div class="container-fluid">
-        <div class="row bg-secondary py-2 px-xl-5">
+        {{-- <div class="row bg-secondary py-2 px-xl-5">
             <div class="col-lg-6 d-none d-lg-block">
                 <div class="d-inline-flex align-items-center">
                     <a class="text-dark" href="/faq">FAQs</a>
@@ -29,11 +29,11 @@
                     </a>
                 </div>
             </div>
-        </div>
+        </div> --}}
         <div class="row align-items-center py-3 px-xl-5">
             <div class="col-lg-3 d-none d-lg-block">
                 <a href="/" class="text-decoration-none">
-                    <h1 class="m-0 display-5 font-weight-semi-bold">Grocery</h1>
+                    <h1 class="m-0 display-5 font-weight-semi-bold">Cantina Juris</h1>
                 </a>
             </div>
             <div class="col-lg-6 col-6 text-left">
